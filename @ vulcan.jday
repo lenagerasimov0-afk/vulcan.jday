@@ -3481,7 +3481,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &cCheating (AntiCheat)
         buffer:
           max: 2
           multiple: 0.5
@@ -3497,7 +3497,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &cCheating (AntiCheat)
       c:
         enabled: true
         punishable: true
@@ -3537,7 +3537,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &cCheating (AntiCheat)
       f:
         enabled: true
         punishable: true
@@ -4020,7 +4020,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &cCheating (AntiCheat)
         buffer:
           max: 2
           multiple: 0.5
