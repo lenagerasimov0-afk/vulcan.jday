@@ -1,1 +1,39 @@
 
+# vulcan.jday
+as an anti-cheat vulcan.jday without admin minecraft server plugin (protection without cheat)
+===============================================================================================================================================================================================================
+it is necessary how to install the servers plugin
+download the plugin copy the link where to put it available 1.7.10+,1.8.+,1.9.+,1.10.+,1.11.+,1.12.+,1.13.+,1.14.+,1.15.+,1.16.+,1.17.+, .18+,1.19.+,1.20.+,1.21.+
+
+vulcan
+
+https://forum-minecraft.ru/resources/vulcan-anti-cheat.1621/?ysclid=mod5s71owa114420355#top
+
+PacketEvents
+
+https://modrinth.com/plugin/packetevents/versions
+
+AdvancedBan
+
+https://www.spigotmc.org/resources/advancedban.8695/
+
+I need to download the plugin already, and the plugins folder again. Put the plugin down and restart the server.
+
+you need another one (error @ vulcan.jday) and copy Ctrl+A Ctrl+C
+
+remove the plugins folder again, folder Vulcan > config.yml, and put Ctrl+V 
+
+And yet the developer got an anti cheat
+
+cheats
+
+https://mods-minecraft.ru/cheats/
+
+if you want to check the anti-cheat you banned put time 
+!!! 1 problem you can't unban it is almost impossible when time finish will unban himself !!! 
+
+if you don't like you can another Github Bocs or himself 
+
+Github Bocs: DarkSaso 
+
+https://github.com/GunacP40/Vulcan/blob/main/README.md
