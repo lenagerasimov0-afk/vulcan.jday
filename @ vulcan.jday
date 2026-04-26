@@ -2510,7 +2510,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% &c[Vulcan] Unfair Advantage=====================================================================================
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 2
           multiple: 0.25
@@ -2529,7 +2529,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 3
           multiple: 0.35
@@ -2547,7 +2547,7 @@ checks:
         maximum-ping: 10000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 3
           multiple: 0.25
@@ -2566,7 +2566,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 3
           multiple: 0.25
@@ -2585,7 +2585,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 3
           multiple: 0.25
@@ -2605,7 +2605,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 4
           multiple: 0.5
@@ -2624,7 +2624,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 4
           multiple: 0.35
@@ -2643,7 +2643,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 3
           multiple: 0.5
@@ -2661,7 +2661,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 4
           multiple: 0.5
@@ -2679,7 +2679,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 10
           multiple: 0.45
@@ -2697,7 +2697,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 4
           multiple: 0.45
@@ -2715,7 +2715,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 10
           multiple: 0.25
@@ -2734,7 +2734,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 3
           multiple: 0.65
@@ -2756,7 +2756,7 @@ checks:
         maximum-ping: 10000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 3
           multiple: 0.5
@@ -2774,7 +2774,7 @@ checks:
         maximum-ping: 10000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated    
         buffer:
           max: 4
           multiple: 0.75
@@ -2796,7 +2796,7 @@ checks:
         maximum-ping: 10000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 4
           multiple: 0.35
@@ -2818,7 +2818,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 3
           multiple: 0.4
@@ -2839,7 +2839,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 6
           multiple: 0.25
@@ -2858,7 +2858,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 2
           multiple: 0.5
@@ -2874,7 +2874,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 4
           multiple: 0.15
@@ -2892,7 +2892,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
     fastplace:
       a:
         enabled: true
@@ -2905,7 +2905,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         max-blocks: 15
     fastbreak:
       a:
@@ -2919,7 +2919,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 2
           multiple: 0.25
@@ -2937,7 +2937,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 4
           multiple: 0.5
@@ -2954,7 +2954,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
       b:
         enabled: true
         punishable: true
@@ -2966,7 +2966,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 3
           multiple: 0.25
@@ -2982,7 +2982,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 2
           multiple: 0.25
@@ -2998,7 +2998,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 4
           multiple: 0.25
@@ -3014,7 +3014,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 4
           multiple: 0.25
@@ -3030,7 +3030,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 3
           multiple: 0.5
@@ -3046,7 +3046,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 2
           multiple: 0.25
@@ -3062,7 +3062,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 8
           multiple: 0.25
@@ -3078,7 +3078,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
       j:
         enabled: true
         punishable: true
@@ -3090,7 +3090,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
       k:
         enabled: true
         punishable: true
@@ -3102,7 +3102,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 1
           multiple: 0.5
@@ -3119,7 +3119,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 2
           multiple: 0.5
@@ -3135,7 +3135,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 1
           multiple: 0.5
@@ -3152,7 +3152,7 @@ checks:
         maximum-ping: 300
         minimum-tps: 19.8
         punishment-commands:
-        - 'minecraft:kick %player% Internal Exception: io.netty.handler.timeout.ReadTimeoutException'
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 35
           multiple: 0.425
@@ -3169,7 +3169,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.8
         punishment-commands:
-        - 'minecraft:kick %player% Internal Exception: io.netty.handler.timeout.ReadTimeoutException'
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 35
           multiple: 0.5
@@ -3186,7 +3186,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.8
         punishment-commands:
-        - 'minecraft:kick %player% Internal Exception: io.netty.handler.timeout.ReadTimeoutException'
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 3
           multiple: 0.25
@@ -3203,7 +3203,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.8
         punishment-commands:
-        - 'minecraft:kick %player% Internal Exception: io.netty.handler.timeout.ReadTimeoutException'
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 2
           multiple: 0.5
@@ -3221,7 +3221,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
     interact:
       a:
         enabled: true
@@ -3234,7 +3234,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 3
           multiple: 0.5
@@ -3251,7 +3251,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 7
           multiple: 0.25
@@ -3268,7 +3268,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 4
           multiple: 0.5
@@ -3285,7 +3285,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 20
           multiple: 0.5
@@ -3301,7 +3301,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 2
           multiple: 0.5
@@ -3318,7 +3318,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
       b:
         enabled: false
         punishable: true
@@ -3330,7 +3330,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 3
           multiple: 0.5
@@ -3346,7 +3346,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
       d:
         enabled: false
         punishable: true
@@ -3358,7 +3358,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% &c[Vulcan] Unfair Advantage
+        - tempban %player% 18h &c(Anti-cheat) violated
       e:
         enabled: false
         punishable: true
@@ -3370,7 +3370,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% &c[Vulcan] Unfair Advantage
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 2
           multiple: 0.5
@@ -3387,7 +3387,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Ghost Hand -s
+        - tempban %player% 18h &c(Anti-cheat) violated
         cancel: true
     boatglitch:
       a:
@@ -3401,7 +3401,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% &c[Vulcan] Unfair Advantage
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 30
           multiple: 0.25
@@ -3431,7 +3431,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% &c[Vulcan] Unfair Advantage
+         - tempban %player% 18h &c(Anti-cheat) violated
         max-packets: 50
     selfleash:
       a:
@@ -3445,7 +3445,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% &c[Vulcan] Unfair Advantage
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 5
           multiple: 0.5
@@ -3462,7 +3462,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% &c[Vulcan] Unfair Advantage
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 6
           multiple: 0.5
@@ -3479,7 +3479,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 2
           multiple: 0.5
@@ -3495,7 +3495,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated
       c:
         enabled: true
         punishable: true
@@ -3507,7 +3507,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
       d:
         enabled: true
         punishable: true
@@ -3519,7 +3519,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 4
           multiple: 0.25
@@ -3535,7 +3535,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated
       f:
         enabled: true
         punishable: true
@@ -3547,7 +3547,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated
       g:
         enabled: true
         punishable: true
@@ -3559,7 +3559,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
       h:
         enabled: false
         punishable: false
@@ -3571,7 +3571,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
       i:
         enabled: true
         punishable: true
@@ -3583,7 +3583,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated
       j:
         enabled: true
         punishable: true
@@ -3607,7 +3607,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 3
           multiple: 0.5
@@ -3623,7 +3623,7 @@ checks:
         maximum-ping: 200
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 1
           multiple: 0.5
@@ -3639,7 +3639,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 5
           multiple: 0.33
@@ -3655,7 +3655,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 20
           multiple: 0.25
@@ -3671,7 +3671,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 3
           multiple: 0.5
@@ -3687,7 +3687,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 3
           multiple: 0.5
@@ -3703,7 +3703,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 3
           multiple: 0.5
@@ -3719,7 +3719,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 6
           multiple: 0.5
@@ -3735,7 +3735,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 2
           multiple: 0.25
@@ -3751,7 +3751,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
       u:
         enabled: true
         punishable: true
@@ -3763,7 +3763,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
       v:
         enabled: false
         punishable: false
@@ -3775,7 +3775,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 8
           multiple: 0.5
@@ -3792,7 +3792,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 8
           multiple: 0.5
@@ -3808,7 +3808,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+         - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 6
           multiple: 0.5
@@ -3824,7 +3824,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
       z:
         enabled: false
         punishable: false
@@ -3836,7 +3836,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% &cBoat Glitch Detected
+        - tempban %player% 18h &c(Anti-cheat) violated
       '1':
         enabled: true
         punishable: false
@@ -3848,7 +3848,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% &c[Vulcan] Unfair Advantage
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 12
           multiple: 0.25
@@ -3864,7 +3864,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% &c[Vulcan] Unfair Advantage
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 12
           multiple: 0.25
@@ -3880,7 +3880,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% &c[Vulcan] Unfair Advantage
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 50
           multiple: 0.25
@@ -3897,7 +3897,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 2
           multiple: 0.25
@@ -3913,7 +3913,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% &c[Vulcan] Unfair Advantage
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 2
           multiple: 0.25
@@ -3930,7 +3930,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 4
           multiple: 0.5
@@ -3948,7 +3948,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 1
           multiple: 0.5
@@ -3964,7 +3964,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 8
           multiple: 0.25
@@ -3982,7 +3982,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 1
           multiple: 0.5
@@ -4000,7 +4000,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 1
           multiple: 0.5
@@ -4018,7 +4018,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% Cheat o Lag? -s
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 2
           multiple: 0.5
@@ -4035,7 +4035,7 @@ checks:
         maximum-ping: 100
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 4
           multiple: 0.5
@@ -4051,7 +4051,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 4
           multiple: 0.5
@@ -4067,7 +4067,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         buffer:
           max: 4
           multiple: 0.5
@@ -4084,7 +4084,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         max-combat-violations: 40
       b:
         enabled: false
@@ -4097,7 +4097,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         max-movement-violations: 300
       c:
         enabled: false
@@ -4110,7 +4110,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         max-player-violations: 150
       d:
         enabled: false
@@ -4123,7 +4123,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - tempban %player% 30d &cCheating (AntiCheat)
+        - tempban %player% 18h &c(Anti-cheat) violated
         max-autoclicker-violations: 200
       e:
         enabled: false
@@ -4136,7 +4136,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% &c[Vulcan] Unfair Advantage
+        - tempban %player% 18h &c(Anti-cheat) violated
         max-total-violations: 150
       f:
         enabled: false
@@ -4149,5 +4149,5 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-        - kick %player% &c[Vulcan] Unfair Advantage
+        - tempban %player% 18h &c(Anti-cheat) violated
         max-scaffold-violations: 150
