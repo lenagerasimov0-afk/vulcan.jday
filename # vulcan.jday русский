@@ -4,6 +4,8 @@
 нужно как установить серверов плагин 
 скачать плагин копируй ссылку куда ставить доступны 1.7.10+,1.8.+,1.9.+,1.10.+,1.11.+,1.12.+,1.13.+,1.14.+,1.15.+,1.16.+,1.17.+,.18+,1.19.+,1.20.+,1.21.+
 
+Ctrl+C копируй Ctrl+V 
+
 vulcan
 
 https://forum-minecraft.ru/resources/vulcan-anti-cheat.1621/?ysclid=mod5s71owa114420355#top
@@ -18,7 +20,7 @@ https://www.spigotmc.org/resources/advancedban.8695/
 
 уже скачать плагин мне нужно папку и ещё раз папку plugins положи плагин перезагрузи сервер
 
-нужно другой (ошибка @ vulcan.jday) и копировать Ctrl+A  Ctrl+C
+нужно другой (ошибка @ vulcan.jday) и копировать Ctrl+A  Ctrl+C копируй
 
 снова папку plugins папку Vulcan > config.yml убери и поставь Ctrl+V 
 
